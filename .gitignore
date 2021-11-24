@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Seam Carving/task/build/
+/Seam Carving/task/out/
+/Seam Carving/task/out/production/classes/
+/Topics/Image libraries/Drawing a red square/out/
+/Topics/Image libraries/Drawing a red square/out/production/classes/
+/Topics/Image libraries/Drawing four circles/out/
+/Topics/Image libraries/Drawing four circles/out/production/classes/
+/Topics/Image libraries/Drawing three strings/out/
+/Topics/Image libraries/Drawing three strings/out/production/classes/
+/Topics/Image libraries/Drawing two lines/out/
+/Topics/Image libraries/Drawing two lines/out/production/classes/
